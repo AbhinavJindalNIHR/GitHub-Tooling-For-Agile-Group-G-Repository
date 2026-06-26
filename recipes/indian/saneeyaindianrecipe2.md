@@ -7,14 +7,14 @@
 
 ## Ingredients (clear list with quantities)
 
-- first ingredient, quantity
-- second ingredient, quantity
-- third ingredient, quantity
+- egg, 2
+- butter, 50g
+- pepper, to taste
 
 ## Method (step-by-step instructions)
 
-1. First step
-2. Second step
+1. Whisk the eggs
+2. Heat the butter and 
 3. Third step
 
 ## Serving Suggestions
