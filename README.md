@@ -1,5 +1,5 @@
 # GitHub-Tooling-for-Agile-Template-Repository
-This is a template repository to be used as the base for all new repos created for the [GitHub Tooling for Agile](https://potential-adventure-k5kp3j1.pages.github.io) training course (by a course facilitator). It comes with a set of default issues, types, directory structure, [a template markdown file](./recipes/recipe_template.md), and settings to ensure a standardised setup. 
+This is a template repository to be used as the base for all new repos created for the [GitHub Tooling for Agile](https://uomresearchit.github.io/Course2-GitHub-Tooling-For-Agile/) training course (by a course facilitator). It comes with a set of default issues, types, directory structure, [a template markdown file](./recipes/recipe_template.md), and settings to ensure a standardised setup. 
 
 # Set Up
 The following steps will need to be performed immediately after creating the new repository to complete the set up.
