@@ -1,9 +1,9 @@
-# Recipe Title
+# Saneeya's Scrambled Eggs
 
-- Cuisine Type:
-- Preparation Time:
-- Cooking Time:
-- Serving Size:
+- Cuisine Type: Indian
+- Preparation Time: 5 mins
+- Cooking Time: 5 mins
+- Serving Size: 1 person
 
 ## Ingredients (clear list with quantities)
 
