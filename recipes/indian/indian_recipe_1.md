@@ -46,3 +46,4 @@ Serve with raita and pickled onions
 ## Photo
 
 ![Chicken Biryani](./chicken_biryani.jpeg)
+
